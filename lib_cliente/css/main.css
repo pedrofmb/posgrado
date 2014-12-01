@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/11/2014, 12:57:30 PM
+    Author     : CristianEduardo
+*/
+
+/* Login seccion */
+
+#contenedor_login{
+    width: 400px;
+    margin: 10% auto;
+    border: solid 1px #28a4c9;
+    padding: 10px;
+    position: relative;
+}
+
+.loader{
+    display: none;
+    position: absolute;
+    left: 0px;
+    bottom: 1px;
+}
+
+/* Login seccion */
+
+
+/* PRINCIPAL SECCION */
+
+#contenedor_menu{
+    width: 90%;
+    margin: 10px auto;
+}
+
+/* PRINCIPAL SECCION */
+
+
+/* Curso seccion */
+
+#contenedor_curso{
+    width: 950px;
+    margin: 10px auto;
+}
+
+/* Curso seccion */
+
+
+/* Programa seccion */
+
+#contenedor_programa{
+    width: 950px;
+    margin: 10px auto;
+}
+
+/* Programa seccion */
+
+/* Mencion seccion */
+
+#contenedor_mencion{
+    width: 950px;
+    margin: 10px auto;
+}
+
+/* Mencion seccion */
+
+/* Aula */
+#contenedor_aula{
+    width: 950px;
+    margin: 10px auto;
+}
+/* Aula */
+
+/* Docente */
+#contenedor_docente{
+    width: 80%;
+    margin: 10px auto;
+    overflow: auto;
+}
+/* Docente */
+
+/* Banco */
+#contenedor_banco{
+    width: 950px;
+    margin: 10px auto;
+    overflow: auto;
+}
+/* Banco */
+
+/* Ciudad */
+#contenedor_ciudad{
+    width: 950px;
+    margin: 10px auto;
+    overflow: auto;
+}
+/* Ciudad */
